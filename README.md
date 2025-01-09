@@ -16,6 +16,10 @@ npm install -g npm-downloader
 npm-downloader --clear @element-plus/icons-vue lodash@4.17.21
 ```
 
+| args | description |
+| --- | --- |
+| `-c --clear` | clear the download directory before start |
+
 ## License
 
 [MIT](LICENSE)
